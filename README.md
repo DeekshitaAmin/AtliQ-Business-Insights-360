@@ -83,3 +83,7 @@ Business and domain knowledge in sales, finance, marketing and supply chain.
 # Conclusion
 This dashboard answers many business questions based on different scenario.
 This report can be used to take data driven decision to make AtliQ more profitable.
+
+Live DashBoard Link:https://app.powerbi.com/view?r=eyJrIjoiNWYzYmZkODYtN2I0ZS00YTAzLTkzZmItZGQ2ZmMyOGEwYTNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
